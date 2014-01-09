@@ -1,4 +1,4 @@
-from  wiersz.models import Strofa
+from social_poem.models import Stropha
 from django import forms
 
 class StrophaAddForm(forms.Form):
