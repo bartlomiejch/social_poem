@@ -11,7 +11,7 @@ def poem(request):
 		form = StrophaAddForm(request.POST)
 		if form.is_valid():
 			my_model = Stropha()
-			my_model.stropha = form.cleaned_data['added_strofa']
+			my_model.stropha = form.cleaned_data['add_stropha']
 			my_model.save()
 			
 	form = StrophaAddForm()
