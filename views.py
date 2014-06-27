@@ -1,6 +1,5 @@
 from django.shortcuts import render_to_response
 from social_poem.models import Stropha
-from django.template import Context, loader
 from django.core.context_processors import csrf 
 from django.http import HttpResponse
 from social_poem.forms import StrophaAddForm
