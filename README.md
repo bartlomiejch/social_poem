@@ -1,4 +1,4 @@
 social_poem
 ===========
 
-An app for writing a poem online by all users.
+An app that allows writing a poem online by all users.
