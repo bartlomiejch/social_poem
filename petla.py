@@ -1,4 +1,4 @@
 
-for i in range(3):
-    print ("word"*i)
+for i in range(5):
+    print ("word "*i)
 
