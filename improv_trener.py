@@ -1,7 +1,7 @@
 import random
 import time
 
-old = ["czepiec", "funt", "kiep", "przebyt", "dziesiecina", "czcigodny", "skryba"]
+old = ["skiba", "czepiec", "funt", "kiep", "przebyt", "dziesiecina", "czcigodny", "skryba"]
 nice = ["Jola", "djembe", "dowcip","slonce", "pomarancza", "muzyka", "saksofon", "taniec", "usmiech"]
 sad = ["trumna", "wojna", "kolba", "bruk", "egzekucja", "bloto", "bug", "krew"]
 my_list = [] 
